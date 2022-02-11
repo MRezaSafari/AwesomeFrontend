@@ -19,9 +19,13 @@
 
 ##  **HTML** 
 * 🌟 [HTML Tutorial for Beginners: HTML Crash Course [2021]](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+* 🌟 [Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI)
 
 ##  **CSS** 
+* 🌟 [Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI)
 * 🌟🌟 [Use future CSS features in your code right now!](https://www.youtube.com/watch?v=Ek1JP3BzbhY&list=WL&index=13)
+* 🌟🌟🌟🌟 [Create a Design System with CSS](https://www.youtube.com/watch?v=lRaL-8qZ0mM)
+
 
 ##  **Javascript** 
 * 🌟🌟🌟🌟🌟 [Deep Foundations of Advanced JavaScript — Kyle Simpson](https://www.youtube.com/watch?v=HcW5-P2SNec&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=1)
@@ -30,12 +34,14 @@
 
 ##  **Typescript** 
 * 🌟🌟🌟 [Five Essential Design Patterns in Typescript](https://www.youtube.com/watch?v=JBu2ZTPgiKI&list=WL&index=1)
+* 🌟🌟🌟 [Typescript for React Components From Beginners to Masters](https://www.youtube.com/watch?v=z8lDwLKthr8)
 
 ##  **React** 
 * 🌟🌟 [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U&list=WL&index=24)
 * 🌟🌟 [You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=56_OUG-0wgI)
 * 🌟🌟 [Mastering React Memo](https://www.youtube.com/watch?v=DEPwA3mv_R8)
 * 🌟🌟🌟 [Mastering React Batch Updating](https://www.youtube.com/watch?v=MlDTHzK1vKI&list=LL&index=1)
+* 🌟🌟🌟 [Typescript for React Components From Beginners to Masters](https://www.youtube.com/watch?v=z8lDwLKthr8)
 
 ## **Next.js**
 * 🌟🌟 [Next.js Architecture for Common Solutions  | Chris Hannaby](https://www.youtube.com/watch?v=ZGAR8RdBdok)
@@ -51,6 +57,11 @@
 * 🌟🌟🌟 [Micro front-end architecture at Walmart](https://www.youtube.com/watch?v=BcpDr0CcIxA)
 * 🌟🌟🌟 [How micro-frontends and NextJS can 4x site performance - Emily Thomas | React Day New York 2021](https://www.youtube.com/watch?v=AzZSQynKJVk)
 * 🌟🌟🌟 [Micro-FEs Crash Course: Live!](https://www.youtube.com/watch?v=RonRwypIVaw)
+* 🌟🌟🌟 [Five Module Federation/Micro-Frontend Mistakes](https://www.youtube.com/watch?v=0WIFW3s2fDM)
+
+##  **Full Projects** 
+* 🌟🌟🌟 [Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video](https://www.youtube.com/watch?v=9DDX3US3kss)
+* 🌟🌟🌟 [Build and Deploy 5 JavaScript & React API Projects in 10 Hours](https://www.youtube.com/watch?v=GDa8kZLNhJ4)
 
 #
 ## Want to contribute ? Simply send a PR.
