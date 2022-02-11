@@ -31,6 +31,7 @@
 * 🌟🌟🌟🌟🌟 [Deep Foundations of Advanced JavaScript — Kyle Simpson](https://www.youtube.com/watch?v=HcW5-P2SNec&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=1)
 * 🌟🌟🌟🌟🌟 [ A sneak peek into super optimized code in JS frameworks by Maxim Koretskyi](https://www.youtube.com/watch?v=_VHNTC67NR8&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=3)
 * 🌟🌟🌟 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+* 🌟 [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 
 ##  **Typescript** 
 * 🌟🌟🌟 [Five Essential Design Patterns in Typescript](https://www.youtube.com/watch?v=JBu2ZTPgiKI&list=WL&index=1)
@@ -41,6 +42,7 @@
 * 🌟🌟 [You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=56_OUG-0wgI)
 * 🌟🌟 [Mastering React Memo](https://www.youtube.com/watch?v=DEPwA3mv_R8)
 * 🌟🌟🌟 [Mastering React Batch Updating](https://www.youtube.com/watch?v=MlDTHzK1vKI&list=LL&index=1)
+* 🌟🌟🌟 [React Location - Enterprise routing for React | JS Monthly London | November 2021](https://www.youtube.com/watch?v=ChdQaf0gQvg)
 * 🌟🌟🌟 [Typescript for React Components From Beginners to Masters](https://www.youtube.com/watch?v=z8lDwLKthr8)
 
 ## **Next.js**
@@ -62,6 +64,7 @@
 ##  **Full Projects** 
 * 🌟🌟🌟 [Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video](https://www.youtube.com/watch?v=9DDX3US3kss)
 * 🌟🌟🌟 [Build and Deploy 5 JavaScript & React API Projects in 10 Hours](https://www.youtube.com/watch?v=GDa8kZLNhJ4)
+* 🌟🌟🌟🌟 [Build LinkedIn with React JS (Firebase + Styled Components + Redux)](https://www.youtube.com/watch?v=xP3cxbDUtrc)
 
 #
 ## Want to contribute ? Simply send a PR.
