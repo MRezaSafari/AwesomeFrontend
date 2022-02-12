@@ -48,6 +48,10 @@
 ## **Next.js**
 * 🌟🌟 [Next.js Architecture for Common Solutions  | Chris Hannaby](https://www.youtube.com/watch?v=ZGAR8RdBdok)
 
+## **Vue**
+* 🌟🌟 [Vue.js Course for Beginners 2021 Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+* 🌟🌟 [Vue 3 Tutorial - Full Course 10 Hours 10 apps](https://www.youtube.com/watch?v=e-E0UB-YDRk)
+
 ## **Testing**
 * 🌟🌟🌟 [Test Driven Development: The best way to code that I almost never use](https://www.youtube.com/watch?v=EH9Suo_J4Ks)
 
