@@ -31,6 +31,7 @@
 * 🌟🌟🌟🌟🌟 [Deep Foundations of Advanced JavaScript — Kyle Simpson](https://www.youtube.com/watch?v=HcW5-P2SNec&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=1)
 * 🌟🌟🌟🌟🌟 [ A sneak peek into super optimized code in JS frameworks by Maxim Koretskyi](https://www.youtube.com/watch?v=_VHNTC67NR8&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=3)
 * 🌟🌟🌟 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+* 🌟 [The Creative Javascript Course - with Persian Subtitle - Git.ir](https://git.ir/developedbyedthe-creative-javascript-course/)
 * 🌟 [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 
 ##  **Typescript** 
