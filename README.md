@@ -32,6 +32,7 @@
 * 🌟🌟🌟🌟🌟 [ A sneak peek into super optimized code in JS frameworks by Maxim Koretskyi](https://www.youtube.com/watch?v=_VHNTC67NR8&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=3)
 * 🌟🌟🌟 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * 🌟 [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
+* 🌟🌟🌟 [How JavaScript Works? - JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
 
 ##  **Typescript** 
 * 🌟🌟🌟 [Five Essential Design Patterns in Typescript](https://www.youtube.com/watch?v=JBu2ZTPgiKI&list=WL&index=1)
