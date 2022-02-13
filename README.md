@@ -45,6 +45,10 @@
 * 🌟🌟🌟 [Mastering React Batch Updating](https://www.youtube.com/watch?v=MlDTHzK1vKI&list=LL&index=1)
 * 🌟🌟🌟 [React Location - Enterprise routing for React | JS Monthly London | November 2021](https://www.youtube.com/watch?v=ChdQaf0gQvg)
 * 🌟🌟🌟 [Typescript for React Components From Beginners to Masters](https://www.youtube.com/watch?v=z8lDwLKthr8)
+* 🌟🌟🌟 [React Redux (with Hooks) Crash Course](https://www.youtube.com/watch?v=9jULHSe41ls)
+* 🌟🌟🌟 [Redux Tutorial - Learn Redux from Scratch | 
+Programming with Mosh
+](https://www.youtube.com/watch?v=poQXNp9ItL4)
 
 ## **Next.js**
 * 🌟🌟 [Next.js Architecture for Common Solutions  | Chris Hannaby](https://www.youtube.com/watch?v=ZGAR8RdBdok)
