@@ -16,7 +16,7 @@ the ratings are:
 🌟🌟🌟🌟 Senior
 
 🌟🌟🌟🌟🌟 God-Tier
-#
+
 ## :bookmark_tabs: Table of Contents
 
 - [General](topics/general.md)
@@ -33,12 +33,12 @@ the ratings are:
 - [Testing](topics/testing.md)
 - [Full Projects](topics/full-projects.md)
 
-#
-## :tada: Contributors
 
+## :tada: Contributors
 This projects exist because of our [beloved contributors](https://github.com/MRezaSafari/AwesomeFrontend/graphs/contributors)
 
-#
+
+
 ## :gem: How to contribute
 
 **All contribtutions/ideas/suggestions are welcome.**
@@ -51,7 +51,7 @@ Spread the word
 
 Reach out with any feedback
 
-#
+
 ## 🎓 License
 
 [![CC 4.0][license-image]][license-url]
