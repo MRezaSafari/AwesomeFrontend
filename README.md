@@ -24,7 +24,11 @@
 ##  **CSS** 
 * 🌟 [Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI)
 * 🌟🌟 [Use future CSS features in your code right now!](https://www.youtube.com/watch?v=Ek1JP3BzbhY&list=WL&index=13)
+* 🌟🌟🌟 [Advanced CSS and Sass: Flexbox, Grid, Animations and More! (Jonas)](https://www.udemy.com/course/advanced-css-and-sass/learn)
 * 🌟🌟🌟🌟 [Create a Design System with CSS](https://www.youtube.com/watch?v=lRaL-8qZ0mM)
+
+## **Fun**
+* 🌟🌟 [50 Projects In 50 Days - HTML, CSS & JavaScript!](https://www.udemy.com/course-dashboard-redirect/?course_id=3671332)
 
 
 ##  **Javascript** 
@@ -33,11 +37,16 @@
 * 🌟🌟🌟 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * 🌟🌟 [Functional, Procedural & Object-oriented Programming - An Overview](https://youtu.be/aoE-92Ac4zE)
 * 🌟 [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
+* 🌟🌟🌟 [The Complete JavaScript Course 2022: From Zero to Expert!(Jonas)](https://www.udemy.com/course/the-complete-javascript-course/learn)
 * 🌟🌟🌟 [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
 
 ##  **Typescript** 
 * 🌟🌟🌟 [Five Essential Design Patterns in Typescript](https://www.youtube.com/watch?v=JBu2ZTPgiKI&list=WL&index=1)
 * 🌟🌟🌟 [Typescript for React Components From Beginners to Masters](https://www.youtube.com/watch?v=z8lDwLKthr8)
+* 🌟🌟🌟 [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/)
+
+##  **Js algorithm and data structures**
+* 🌟🌟🌟 [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn)
 
 ##  **React** 
 * 🌟🌟 [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U&list=WL&index=24)
@@ -60,6 +69,8 @@ Programming with Mosh
 
 ## **Testing**
 * 🌟🌟🌟 [Test Driven Development: The best way to code that I almost never use](https://www.youtube.com/watch?v=EH9Suo_J4Ks)
+* 🌟🌟🌟 [Testing React with Jest and Testing Library](https://www.udemy.com/course/react-testing-library/learn/)
+* 🌟🌟🌟 [React Testing Library Tutorial](https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
 
 
 ##  **Micro Frontend** 
