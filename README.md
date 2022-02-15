@@ -35,8 +35,10 @@
 * 🌟🌟🌟🌟🌟 [Deep Foundations of Advanced JavaScript — Kyle Simpson](https://www.youtube.com/watch?v=HcW5-P2SNec&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=1)
 * 🌟🌟🌟🌟🌟 [ A sneak peek into super optimized code in JS frameworks by Maxim Koretskyi](https://www.youtube.com/watch?v=_VHNTC67NR8&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=3)
 * 🌟🌟🌟 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+* 🌟🌟 [Functional, Procedural & Object-oriented Programming - An Overview](https://youtu.be/aoE-92Ac4zE)
 * 🌟 [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 * 🌟🌟🌟 [The Complete JavaScript Course 2022: From Zero to Expert!(Jonas)](https://www.udemy.com/course/the-complete-javascript-course/learn)
+* 🌟🌟🌟 [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
 
 ##  **Typescript** 
 * 🌟🌟🌟 [Five Essential Design Patterns in Typescript](https://www.youtube.com/watch?v=JBu2ZTPgiKI&list=WL&index=1)
@@ -53,9 +55,17 @@
 * 🌟🌟🌟 [Mastering React Batch Updating](https://www.youtube.com/watch?v=MlDTHzK1vKI&list=LL&index=1)
 * 🌟🌟🌟 [React Location - Enterprise routing for React | JS Monthly London | November 2021](https://www.youtube.com/watch?v=ChdQaf0gQvg)
 * 🌟🌟🌟 [Typescript for React Components From Beginners to Masters](https://www.youtube.com/watch?v=z8lDwLKthr8)
+* 🌟🌟🌟 [React Redux (with Hooks) Crash Course](https://www.youtube.com/watch?v=9jULHSe41ls)
+* 🌟🌟🌟 [Redux Tutorial - Learn Redux from Scratch | 
+Programming with Mosh
+](https://www.youtube.com/watch?v=poQXNp9ItL4)
 
 ## **Next.js**
 * 🌟🌟 [Next.js Architecture for Common Solutions  | Chris Hannaby](https://www.youtube.com/watch?v=ZGAR8RdBdok)
+
+## **Vue**
+* 🌟 [Vue.js Course for Beginners 2021 Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+* 🌟 [Vue 3 Tutorial - Full Course 10 Hours 10 apps](https://www.youtube.com/watch?v=e-E0UB-YDRk)
 
 ## **Testing**
 * 🌟🌟🌟 [Test Driven Development: The best way to code that I almost never use](https://www.youtube.com/watch?v=EH9Suo_J4Ks)
