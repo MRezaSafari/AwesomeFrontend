@@ -4,7 +4,7 @@
 - 🌟🌟🌟🌟🌟 [Deep Foundations of Advanced JavaScript — Kyle Simpson](https://www.youtube.com/watch?v=HcW5-P2SNec&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=1)
 - 🌟🌟🌟🌟🌟 [ A sneak peek into super optimized code in JS frameworks by Maxim Koretskyi](https://www.youtube.com/watch?v=_VHNTC67NR8&list=PL7TWHDHuOUJu2CF_iSCczuNZviKfsMx5T&index=3)
 - 🌟🌟🌟 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
-- 🌟🌟 [Functional, Procedural & Object-oriented Programming - An Overview](https://youtu.be/aoE-92Ac4zE)
+- 🌟🌟 [Functional, Procedural & Object-oriented Programming - An Overview](https://www.youtube.com/watch?v=aoE-92Ac4zE)
 - 🌟 [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 - 🌟🌟🌟 [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
 
