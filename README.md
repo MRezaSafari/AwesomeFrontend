@@ -26,6 +26,7 @@ the ratings are:
 - [Typescript](topics/typescript.md)
 - [Algorithm and Data Structures](topics/algorithm-and-data-structures.md)
 - [React.js](topics/react.md)
+- [React Native](topics/react-native.md)
 - [Vue.js](topics/vue.md)
 - [Redux & React-Redux](topics/redux.md)
 - [Next.js](topics/nextjs.md)
