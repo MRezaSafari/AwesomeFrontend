@@ -7,6 +7,6 @@
 
 :movie_camera: Full projects
 
--🌟🌟🌟[React Native Fasion app](https://www.youtube.com/watch?v=UkG3kWTGhTE&list=PLkOyNuxGl9jyhndcnbFcgNM81fZak7Rbw)
+- 🌟🌟🌟[React Native Fasion app](https://www.youtube.com/watch?v=UkG3kWTGhTE&list=PLkOyNuxGl9jyhndcnbFcgNM81fZak7Rbw)
 
 :memo: Articles
