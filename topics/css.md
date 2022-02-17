@@ -9,4 +9,11 @@
 - 🌟🌟🌟 [Udemy] [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/learn)
 
 :memo: Articles
-- 🌟🌟 [Game for learning CSS flexbox](https://flexboxfroggy.com/)
+-
+
+:game_die: Games
+- 🌟 [CSS Grid Garden](https://cssgridgarden.com/)
+- 🌟🌟 [Flexbox Froggy](https://flexboxfroggy.com/)
+- 🌟🌟 [Flexbox Defence](http://www.flexboxdefense.com/)
+- 🌟🌟🌟 [CSS Battle](https://cssbattle.dev/)
+- 🌟🌟🌟 [CSS Diner](https://flukeout.github.io/)
