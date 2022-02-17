@@ -7,6 +7,7 @@
 - 🌟🌟 [Functional, Procedural & Object-oriented Programming - An Overview](https://www.youtube.com/watch?v=aoE-92Ac4zE)
 - 🌟 [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 - 🌟🌟🌟 [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
+- 🌟🌟 [JavaScript The Hard Parts: Closure, Scope & Execution Context - Codesmith](https://www.youtube.com/watch?v=XTAzsODSCsM)
 
 :movie_camera: Courses
 - 🌟🌟🌟 [The Complete JavaScript Course 2022: From Zero to Expert!(Jonas)](https://www.udemy.com/course/the-complete-javascript-course/learn)
