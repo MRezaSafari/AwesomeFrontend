@@ -28,6 +28,7 @@ the ratings are:
 - [React.js](topics/react.md)
 - [React Native](topics/react-native.md)
 - [Vue.js](topics/vue.md)
+- [Angular](topics/angular.md)
 - [Redux & React-Redux](topics/redux.md)
 - [Next.js](topics/nextjs.md)
 - [Micro Frontend](topics/micro-frontend.md)
