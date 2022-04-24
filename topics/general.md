@@ -8,6 +8,7 @@
 
 
 :memo: Articles
+- 🌟🌟 [Don’t be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 
 :headphones: Podcasts
 - 🌟🌟🌟 [JavaScript Air - The live broadcast podcast all about JavaScript](https://javascriptair.com/)
