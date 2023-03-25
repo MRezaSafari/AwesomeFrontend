@@ -33,6 +33,7 @@ the ratings are:
 - [Next.js](topics/nextjs.md)
 - [Micro Frontend](topics/micro-frontend.md)
 - [Testing](topics/testing.md)
+- [TailwindCSS](topics/tailwindcss.md)
 - [Full Projects](topics/full-projects.md)
 
 
