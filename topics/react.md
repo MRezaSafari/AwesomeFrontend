@@ -11,6 +11,10 @@
 - 🌟🌟🌟 [Create react app, Nextjs and vite - 2023](https://www.youtube.com/watch?v=mLNq3SanPkk)
 - 🌟🌟🌟 [Modern React Web Development Full Course - 12 hours](https://www.youtube.com/watch?v=XxXyfkrP298)
 
+:closed_book: Books
+  - [Learning Patterns](https://www.patterns.dev) - Lydia Hallie & Addy Osmani
+
+
 :movie_camera: Courses
 
 
