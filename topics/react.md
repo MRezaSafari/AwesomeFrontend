@@ -8,6 +8,8 @@
 - 🌟🌟🌟 [React Location - Enterprise routing for React | JS Monthly London | November 2021](https://www.youtube.com/watch?v=ChdQaf0gQvg)
 - 🌟🌟🌟 [Typescript for React Components From Beginners to Masters](https://www.youtube.com/watch?v=z8lDwLKthr8)
 
+:closed_book: Books
+  - [Learning Patterns](https://www.patterns.dev) - Lydia Hallie & Addy Osmani
 
 :movie_camera: Courses
 
